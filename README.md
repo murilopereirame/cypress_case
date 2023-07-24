@@ -3,7 +3,7 @@
 ---
 This Cypress project is a case of study with the purpose of studying and learning how to automate web front-end tests.
 
-The web project used in this case can be found [here](https://github.com/murilopereirame/cypress_case).
+The web project used in this case can be found [here](https://github.com/murilopereirame/electron_case).
 
 ## How to Test
 
